@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #1b1b1b;
+    height: 100vh;
+    padding: 22px;
+}
+
+.popular-book-heading {
+    font-family: "Bree Serif";
+    font-size: 26px;
+    color: #ffffff;
+}
+
+.popular-book-container {
+    border-radius: 8px;
+    background-color: #e6f6ff;
+    margin-bottom: 11px;
+}
+
+.wings-of-fire-img {
+    height: 180px;
+    width: 125px;
+}
+
+.wings-of-fire-container {
+    padding: 15px;
+}
+
+.wings-of-fire-heading {
+    font-family: "Bree Serif";
+    font-size: 16px;
+    color: #183b56;
+}
+
+.wings-of-fire-desc {
+    font-family: "Bree Serif";
+    font-size: 12px;
+    color: #06070d;
+}
+
+.wings-of-fire-author {
+    font-family: "Bree Serif";
+    font-size: 10px;
+    color: #183b56;
+}
+
+.btn {
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.recommended-books-heading {
+    font-family: "Bree Serif";
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.recommended-books-img {
+    height: 25vh;
+    padding-bottom: 10px;
+}
+
+.recommended-books-card {
+    margin-left: 10px;
+}
+
+.recommended-books-card-heading {
+    font-family: "Bree Serif";
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.recommended-books-card-desc {
+    font-family: "Bree Serif";
+    font-size: 12px;
+    color: #e4e7eb;
+}
+
+.imgs {
+    height: 50vh;
+}
+
+.details-page-heading {
+    font-family: "Bree Serif";
+    font-size: 25px;
+    color: #ffffff;
+    padding-top: 18px;
+}
+
+.details-page-author {
+    font-family: "Bree Serif";
+    font-size: 12px;
+    color: #9aa5b1;
+}
+
+.details-page-desc {
+    font-family: "Bree Serif";
+    font-size: 11px;
+    color: #e4e7eb;
+    text-align: left;
+}
